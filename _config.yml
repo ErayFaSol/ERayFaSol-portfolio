@@ -1,64 +1,34 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://erayfasol.github.io/ERayFaSol-portfolio/
+baseurl:
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Data Scientist | Data Analyst | MLops
+email: ejfrancos99@gmail.com  
+description: "Portafolio personal como cientifico de datos"
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Eduardo Franco
   pic: 1
-  position: Lead Designer
+  position: Cientifico de datos
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/eduardo-j-franco-s/
+    - title: GitHub
+      url: https://github.com/ErayFaSol
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/eduardo-j-franco-s/
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/ErayFaSol
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Mexico
+  - line: Puerto vallarta
 
 # Build settings
 markdown: kramdown
